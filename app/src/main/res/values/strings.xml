@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MobPrak6</string>
+    <string name="channel_name">Имя канала</string>
+    <string name="Notification_Title">Заголовок уведомления</string>
+    <string name="notification_text">Текст уведомления</string>
+    <string name="channel_description">Описание канала</string>
+    <string name="overlay_message">Вернуться в приложение</string>
+</resources>
